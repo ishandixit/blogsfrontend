@@ -1,0 +1,49 @@
+/* Margin */
+.margin-20{
+    margin: 20px;
+}
+
+/* Margin Right */
+
+.mr-5{
+    margin-right: 5px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+
+/* Margin Left */
+
+.ml-10{
+    margin-left: 10px;
+}
+
+/* padding left */
+
+.pl-10{
+    padding-left: 10px;
+}
+
+/* padding right */
+
+.pr-10{
+    padding-right: 10px;
+}
+
+
+/* Table td tr css */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.pull-right{
+    float: right;
+}
